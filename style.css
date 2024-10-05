@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+header img {
+    width: 32vw;
+    height: 74vh;
+    margin: 2em;
+
+
+
+}
+
+ img{
+    border-radius: 50%;
+    width: 26%;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+ }
+ .melhores{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
